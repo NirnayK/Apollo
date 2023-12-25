@@ -5,4 +5,8 @@
     <string name="title_notifications">Notifications</string>
     <string name="content_desc_hamburger">Open Navigation Menu</string>
     <string name="searchbar_placeholder">Search your music</string>
+    <string name="bottom_nav_home">Home</string>
+    <string name="bottom_nav_songs">Songs</string>
+    <string name="bottom_nav_playlists">Playlists</string>
+    <string name="bottom_nav_spotify">Spotify</string>
 </resources>

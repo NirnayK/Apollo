@@ -25,10 +25,9 @@
     <ImageView
         android:id="@+id/hamburgerIcon"
         android:layout_width="70dp"
-        android:layout_height="wrap_content"
-        android:src="@drawable/hamburger"
+        android:layout_height="38dp"
         android:contentDescription="@string/content_desc_hamburger"
-        />
+        android:src="@drawable/ic_menu" />
 
     <EditText
         android:id="@+id/searchEditText"

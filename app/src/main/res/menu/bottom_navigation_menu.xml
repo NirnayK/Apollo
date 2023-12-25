@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/menu/bottom_navigation_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_home"
+        android:title="@string/bottom_nav_home"
+        android:icon="@drawable/ic_home" />
+
+    <item
+        android:id="@+id/menu_songs"
+        android:title="@string/bottom_nav_songs"
+        android:icon="@drawable/ic_music_note" />
+
+    <item
+        android:id="@+id/menu_playlists"
+        android:title="@string/bottom_nav_playlists"
+        android:icon="@drawable/ic_library_music" />
+
+    <item
+        android:id="@+id/menu_spotify"
+        android:title="@string/bottom_nav_spotify"
+        android:icon="@drawable/ic_bolt" />
+
+    <!-- Add more menu items as needed -->
+</menu>
